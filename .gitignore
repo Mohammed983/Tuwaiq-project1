@@ -1,0 +1,1 @@
+-e "# Ignore virtual environment\nvenv/\n\n# Ignore Python cache files\n__pycache__/\n*.pyc\n\n# Ignore IDE/editor settings\n.vscode/\n*.log" 
